@@ -10,7 +10,8 @@ install gulp cli global
 ```
 npm install -g gulp-cli
 ```
-in project root
+to compile and build js
+go to project root
 run : 
 ```
 gulp
