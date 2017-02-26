@@ -2,6 +2,8 @@
 
 Example using TypeScript
 
+git clone this project
+
 install node modules
 ```
 npm install
