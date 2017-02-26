@@ -1,0 +1,11 @@
+{ 
+    "include": [
+        "source/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "compilerOptions": {
+        "target": "es5"
+    }
+}
